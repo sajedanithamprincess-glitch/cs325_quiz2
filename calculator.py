@@ -10,3 +10,11 @@ if __name__ == "__main__":
 
     print("Addition:", add(x, y))
     print("Subtraction:", subtract(x, y))
+
+def multiply(a, b):
+    return a * b
+
+def divide(a, b):
+    if b == 0:
+        return "Error: Division by zero!"
+    return a / b

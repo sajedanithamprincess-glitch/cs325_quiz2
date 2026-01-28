@@ -10,3 +10,5 @@ Run the script using:
 
 ```bash
 python calculator.py
+
+This calculator now supports addition, subtraction, multiplication, and division.
